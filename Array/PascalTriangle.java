@@ -25,7 +25,7 @@ public class PascalTriangle {
                 }
             }
         }
-        return res;
+        return res; 
     }
 
     public static void main(String[] args) {
