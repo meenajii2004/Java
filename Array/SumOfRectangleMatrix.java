@@ -66,7 +66,7 @@ int sum = 0;
     return sum;
 }
 
-static void PrefixSum2DColwise(int [][] Matrix ){ jhhjbhjgcdsa
+static void PrefixSum2DColwise(int [][] Matrix ){ 
     int r = Matrix .length;
     int c = Matrix[0].length;
 
